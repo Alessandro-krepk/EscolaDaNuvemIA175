@@ -3,6 +3,7 @@
 ## 📖 Sobre o Repositório
 
 Este repositório documenta minha jornada de aprendizado e desenvolvimento prático no módulo de **Inteligência Artificial e Python** do programa **Escola da Nuvem**. Aqui estão compiladas as soluções para as atividades propostas, demonstrando a aplicação progressiva dos conceitos ensinados, desde a lógica de programação básica até a implementação de modelos de Machine Learning.
+Este projeto foi desenvolvido como parte do programa de formação oferecido pela **Escola da Nuvem**, uma iniciativa dedicada à capacitação profissional em tecnologia.
 * **Site Oficial:** [escoladanuvem.org](https://escoladanuvem.org/)
 * **LinkedIn:** [Escola da Nuvem](https://www.linkedin.com/school/escola-da-nuvem/)
 ---
