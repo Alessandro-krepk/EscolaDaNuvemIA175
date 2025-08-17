@@ -106,4 +106,4 @@ Para testar qualquer uma das atividades, siga os passos abaixo:
 ## 👨‍💻 Autor
 
 * **Alessandro Krepk**
-* **LinkedIn:https://www.linkedin.com/
+* **LinkedIn:**https://www.linkedin.com/
