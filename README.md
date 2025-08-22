@@ -1,6 +1,6 @@
 # Portfólio de Atividades Práticas - Módulo IA & Python (Escola da Nuvem)
 
-## 📖 Sobre o Repositório
+##  Sobre o Repositório
 
 Este repositório documenta minha jornada de aprendizado e desenvolvimento prático no módulo de **Inteligência Artificial e Python** do programa **Escola da Nuvem**. Aqui estão compiladas as soluções para as atividades propostas, demonstrando a aplicação progressiva dos conceitos ensinados, desde a lógica de programação básica até a implementação de modelos de Machine Learning.
 Este projeto foi desenvolvido como parte do programa de formação oferecido pela **Escola da Nuvem**, uma iniciativa dedicada à capacitação profissional em tecnologia.
@@ -8,7 +8,7 @@ Este projeto foi desenvolvido como parte do programa de formação oferecido pel
 * **LinkedIn:** [Escola da Nuvem](https://www.linkedin.com/school/escola-da-nuvem/)
 ---
 
-## 🚀 Atividades Desenvolvidas
+##  Atividades Desenvolvidas
 
 Cada pasta representa um conjunto de exercícios com um foco específico no aprendizado:
 
@@ -63,7 +63,7 @@ Cada pasta representa um conjunto de exercícios com um foco específico no apre
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Linguagem:** Python
 * **Bibliotecas de Dados:** Pandas, Numpy
@@ -72,7 +72,7 @@ Cada pasta representa um conjunto de exercícios com um foco específico no apre
 
 ---
 
-## ⚙️ Como Executar
+##  Como Executar
 
 Para testar qualquer uma das atividades, siga os passos abaixo:
 
